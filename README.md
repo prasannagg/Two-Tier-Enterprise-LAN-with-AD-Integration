@@ -152,4 +152,4 @@ Due to platform limitations, the original Cisco Modeling Labs (CML) YAML topolog
 ## Author
 **Prasanna Koirala**  
 Diploma – Computer & Network Technology  
-Cisco Certified Network Associate (CCNA)
+
